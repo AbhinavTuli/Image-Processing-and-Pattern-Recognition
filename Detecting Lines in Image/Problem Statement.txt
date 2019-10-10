@@ -1,0 +1,3 @@
+As per discussion in the lecture class,apply the Hough transformation and classify the pixels corresponding to each of the straight line in the given image. This is a binary image with max graylevel =1 and min graylevel =0.  Submit only your matlab code file e.g. "abcd.m" file.
+
+You should display accumulator cell (rho-theta diagram) in figure(1) and the continuous line in the output image figure(2).
